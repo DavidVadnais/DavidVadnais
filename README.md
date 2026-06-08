@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+David+Vadnais+👋;Mechanical+%2F+Software+Engineer)](https://git.io/typing-svg)
+
+
 
 <!--
 **DavidVadnais/DavidVadnais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
