@@ -6,12 +6,12 @@
 ## Career Timeline
 ```mermaid
 gantt
-    title Academia | Engineering | DevOps | Open Source  (2013 - present)
+    title Academia | Engineering | DevOps | Open Source  (2016 - present)
     dateFormat  YYYY
     axisFormat  %Y
 
     section Academia
-    B.S. Mechanical Engineering, Colorado School of Mines              :a1, 2013, 2017
+    B.S. Mechanical Engineering, Colorado School of Mines (2013-2017)  :a1, 2016, 2017
     M.S. Computer Science, University of Colorado, Colorado Springs    :a2, 2018, 2022
     Research, Bioinformatics (UCCS)                                    :a3, 2019, 2026
 
@@ -27,7 +27,7 @@ gantt
 
     section Open Source
     Stanford.NLP.NET                                                   :os1, 2021, 2022
-    Django Helpdesk                                                    :d2, 2024, 2026
+    Django Helpdesk                                                    :os2, 2024, 2026
 
 ```
 <!--
