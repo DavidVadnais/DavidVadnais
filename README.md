@@ -34,8 +34,8 @@ gantt
 
 ## Things I have supported/developed with (Gotta catch 'em all)
 > **Academia**
-> - B.S. Mechanical Engineering, Colorado School of Mines - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
-> - M.S. Computer Science, University of Colorado Colorado Springs - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+> - B.S. Mechanical Engineering, [Colorado School of Mines](https://www.mines.edu/) - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
+> - M.S. Computer Science, [University of Colorado Colorado Springs](https://www.uccs.edu/) - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 > - [Research, Bioinformatics (UCCS)](https://github.com/OluwadareLab/ParticleChromo3D_Plus) - [Paper 1](https://link.springer.com/article/10.1186/s13040-022-00305-x), [Paper 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10046902/) - ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 >
 > **Engineering**
