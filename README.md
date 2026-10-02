@@ -50,6 +50,6 @@ gantt
 >
 > **Open Source**
 > - [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET) - ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-> - [Django Helpdesk](https://github.com/django-helpdesk/django-helpdesk) - ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+> - [Django Helpdesk](https://github.com/django-helpdesk/django-helpdesk) - ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-username) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=DavidVadnais)
