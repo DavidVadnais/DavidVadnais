@@ -28,6 +28,7 @@ gantt
     section Open Source
     Stanford.NLP.NET                                                   :os1, 2021, 2022
     Django Helpdesk                                                    :os2, 2024, 2027
+    Django Commons                                                     :os3, 2026, 2027
 
 ```
 
